@@ -100,7 +100,10 @@ src/
 
 ## 📸 Preview
 
+### Splash Screen
 ![Splash Screen](screenshot.png)
+
+### Live Dashboard
 ![NetScan Pro Dashboard](dashboard.png)
 
 ## 👩‍💻 Author
